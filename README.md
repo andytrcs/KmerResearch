@@ -37,7 +37,8 @@ Metrics recored:
 6. Precision
 5. Recall
 
-Result from all models in folder model performance
+Result from all models in folder model performance:
+
 
 ## Dense-layer deep learning model:
 
