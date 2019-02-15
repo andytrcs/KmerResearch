@@ -38,7 +38,7 @@ Metrics recored:
 5. Recall
 
 Result from all models in folder model performance:
-https://github.com/vicely07/KmerResearch/blob/master/Model%20Performace/6mer_Metrics.xlsx
+![alt text]()
 
 ## Dense-layer deep learning model:
 
