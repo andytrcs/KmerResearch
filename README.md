@@ -38,14 +38,7 @@ Metrics recored:
 5. Recall
 
 Result from all models in folder model performance:
-KNN	Decision Tree	Boosted Tree	Logistic Regression a=.01	Random Forest
-Accuracy	0.815	0.741	0.906	0.67	91.2
-Sensitivity	0.942	0.8	0.924	0.662	0.93
-Specificity	0.688	0.682	0.888	0.682	0.894
-F1 Score	0.8358	0.7554	0.9077	0.6687	0.9136
-Precision	0.7512	7156	0.8919	0.6755	0.8977
-Recall	0.942	0.8	0.924	0.662	0.93
-AUC	0.815	0.7615	0.974	0.72	0.97
+
 
 ## Dense-layer deep learning model:
 
